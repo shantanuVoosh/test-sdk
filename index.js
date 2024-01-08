@@ -1,4 +1,4 @@
-
+// ecommercePackage.js
 
 class ECommercePackage {
   constructor() {
