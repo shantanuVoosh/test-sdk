@@ -1,0 +1,19 @@
+{
+  "name": "fake-dummy-data-sdk",
+  "version": "1.0.0",
+  "description": "contains fakeJson posts and comments data",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanuVoosh/test-sdk.git"
+  },
+  "author": "shantanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanuVoosh/test-sdk/issues"
+  },
+  "homepage": "https://github.com/shantanuVoosh/test-sdk#readme"
+}
